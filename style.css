@@ -150,25 +150,25 @@ h1{
     display: flex;
     background-color: #F7F7FB;
 }
-.s3_div1{
+.s2_div1{
     width: 500px;
     margin-left: 70px;
 }
-.s3_div2{
+.s2_div2{
     width: 500px;
 }
-.s3_p1{
+.s2_p1{
     font-size: 50px;
     font-weight: bold;
     margin-top: 100px;
 }
-.s3_p2{
+.s2_p2{
     width: 410px;
     line-height: 30px;
     margin-top: 20px;
     color: rgb(100, 100, 100);
 }
-.s3_ul1{
+.s2_ul1{
     width: 500px;
     margin-top: 20px;
     display: flex;
@@ -181,18 +181,51 @@ h1{
 .s2_li1:hover{
     color: orangered;
 }
-.s3_check{
+.s2_check{
     color: blue;
     font-size: larger;
 }
 h3{
     margin-left: 15px;
 }
-.s3_ul2{
+.s2_ul2{
     width: 500px;
     margin-top: 20px;
     display: flex;
 }
-.s2_img1{
-    margin-left: 70px;
+
+.container4{
+    width: 1140px;
+    margin: 0% auto;
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-around;
+}
+.s3_div1{
+    width: 500px;
+    height: 500px;
+    border: 1px solid black;
+}
+.s3_div2{
+    width: 500px;
+    height: 500px;
+    border: 1px solid black;
+}
+.s3_img1{
+    width: 70%;
+    margin-left: 50px;
+}
+.s3_div3{
+    width: 400px;
+    height: 100px;
+    border: 1px solid black;
+    margin-top: 20px;
+    display: flex;
+}
+.s3_div4{
+    width: 50px;
+}
+.s3_p1{
+    font-size: 50px;
+    font-weight: bold;
 }
